@@ -24,4 +24,4 @@ Route::get('categories', 'CategoryController@index')->name('api.categories');
 Route::get('adverts', 'AdvertController@index')->name('api.adverts');
 
 // Users
-Route::get('user', 'UserController@show')->name('api.user');
+Route::post('user/auth', 'UserController@auth')->name('api.user.auth');

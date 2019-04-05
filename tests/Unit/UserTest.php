@@ -15,7 +15,7 @@ class UserTest extends TestCase
      */
     public function testShowUsertest()
     {
-        $response = $this->json('GET', route('api.user'), ['id'=>1]);
+        $response = $this->json('POST', route('api.user.auth'), ['email'=>'captain@enterprise.com']);
         
         $response->assertStatus(200);
 
