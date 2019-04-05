@@ -37,7 +37,7 @@ My thought process initially was "what are the three most important things in th
 2. All adverts
 3. One user
 
-It would be able to use this information to do essentially everything - by filtering the ads on the client, the app would be able to acquire results for all of a user's ads, all ads in a particular category, view a single ad and even the all of a users'ads and just their most recent ones. Therefore I decided that these would be the most important capabillities to build in the time frame. 
+It would be able to use this information to do essentially everything - by filtering the ads on the client, the app would be able to acquire results for all of a user's ads, all ads in a particular category, view a single ad and even just the users' most recent ones. Therefore I decided that these would be the most important capabillities to build in the time frame. 
 
 ### Tech Choice
 
