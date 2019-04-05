@@ -1,7 +1,7 @@
 
 ## The challenge 
 
-The challenge was to build an API, picking a maximum of 3 capabillities from a list of possible choices (containing only retrievements) and to pick the 3 most important.
+The challenge was to build an API, picking a maximum of 3 capabillities from a list of possible choices (containing only retrievements) and to pick the 3 most important whilst also providing some basic unit tests. The time limit for the assignment was 3 hours.
 
 ## My Submission 
 
