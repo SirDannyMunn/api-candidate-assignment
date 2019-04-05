@@ -7,6 +7,8 @@ The challenge was to build an API, picking a maximum of 3 capabillities from a l
 
 ### What's Included   
 
+It includes 3 routes, 3 controller, 3 unit tests and one request validation as well as the data files. 
+
 * Controllers `app/Http/Controllers/`
     * CategoryController.php
     * UserController.php
