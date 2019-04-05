@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Requests\ShowUserRequest;
 use App\Http\Requests\UserAuthRequest;
 
 class UserController extends Controller
