@@ -42,8 +42,7 @@ I picked Laravel for this as it's the fasest way I could have got the project ma
 
 ###### Quick Ending Note
 
-Hi, thank you for reviewing my project 😄. Here is a quick ending note:
-Of course, if this was an actual project, it would include more functionallity, maybe used a database instead of using the json files as a data source, but this met the requirements of the project so why overcomplicate?😁 I did consider building more functioanallity as I had plenty of time left out of the 3 hours but, as the main assignment critera was to pick/build the most important capabillities, felt it may be a waste. I completed the project in around an 70 minutes (commit: b138eb9).  
+Hi, thank you for reviewing my project 😄. Of course, if this was an actual project, it would include more functionallity, maybe used a database instead of using the json files as a data source, but this met the requirements of the project so why overcomplicate?😁 I did consider building more functioanallity as I had plenty of time left out of the 3 hours but, as the main assignment critera was to pick/build the most important capabillities, felt it may be a waste. I completed the project in around an 70 minutes (commit: b138eb9).  
 
 ## Setup Instructions
 
