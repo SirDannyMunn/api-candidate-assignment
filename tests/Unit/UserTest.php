@@ -12,10 +12,12 @@ class UserTest extends TestCase
      */
     public function testShowUsertest()
     {
-        $response = $this->json('POST', route('api.user.auth'), ['email'=>'captain@enterprise.com']);
+        $email = 'captain@enterprise.com';
+
+        $response = $this->json('POST', route('api.user.auth'), ['email'=>$email]);
         
         $response->assertStatus(200);
 
-        $this->assertTrue($response->json()['id']==1);
+        $this->assertTrue($response->json()['email']==$email);
     }
 }
