@@ -12,8 +12,10 @@ class CategoryTest extends TestCase
      *
      * @return void
      */
-    public function testCategoryTest()
+    public function testAllCategoriesTest()
     {
-        $this->assertTrue(true);
+        $response = $this->json('GET', route('api.categories'));
+
+        $response->assertStatus(200);
     }
 }
