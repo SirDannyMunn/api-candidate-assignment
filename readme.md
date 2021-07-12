@@ -1,7 +1,7 @@
 
 ## The challenge 
 
-The challenge was to build an API, picking a maximum of 3 capabillities from a list of possible choices (containing only retrievements) and to pick the 3 most important whilst also providing some basic unit tests. The time limit for the assignment was 3 hours.
+The challenge was to build an API, picking a maximum of 3 capabillities from a list of possible choices (containing only GET requests) and to pick the 3 most important whilst also providing some basic unit tests. The time limit for the assignment was 3 hours.
 
 ## My Submission 
 
@@ -34,7 +34,7 @@ My thought process initially was "what are the three most important things in th
 2. All adverts
 3. One user
 
-It would be able to use this information to do essentially everything - by filtering the ads on the client, the app would be able to acquire results for all of a user's ads, all ads in a particular category, view a single ad and even just the users' most recent ones. Therefore I decided that these would be the most important capabillities to build in the time frame. 
+It would be able to use this information to meet the app requirements at its most basic level - by filtering the ads on the client, the app would be able to acquire results for all of a user's ads, all ads in a particular category, view a single ad and even just the users' most recent ones. Therefore I decided that these would be the most important capabillities to build in the time frame. 
 
 ### Tech Choice
 
@@ -42,7 +42,7 @@ I picked Laravel for this as it's the fasest way I could have got the project ma
 
 ###### Quick Ending Note
 
-Hi, thank you for reviewing my project 😄. Of course, if this was an actual project, it would include more functionallity and maybe used a database instead of using the json files as a data source. But this met the requirements of the project so why overcomplicate?😁 I did consider building more functioanallity as I had plenty of time left out of the 3 hours but, as the main assessment critera was to pick/build the most important capabillities, felt it may be a waste. I completed the project in around an 70 minutes (commit: b138eb9).  
+Hi, thank you for reviewing my project 😄. Of course, if this was an actual project, it would include more functionallity and maybe used a database instead of using the json files as a data source. But this met the requirements of the project so I decided to aim for simplicty. I completed the project in around an 70 minutes (commit: b138eb9).  
 
 ## Setup Instructions
 
